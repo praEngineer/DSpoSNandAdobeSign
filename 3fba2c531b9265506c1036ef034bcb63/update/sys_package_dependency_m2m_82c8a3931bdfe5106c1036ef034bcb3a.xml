@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Procurement" source="com.snc.procurement">0b8ea08a1b8c995010c26391ec4bcb19</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-06-13 20:46:44</sys_created_on>
+        <sys_id>82c8a3931bdfe5106c1036ef034bcb3a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="DSpoPurchaseOrders" source="x_dosny_dspopurcha">3fba2c531b9265506c1036ef034bcb63</sys_package>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-06-13 20:46:44</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

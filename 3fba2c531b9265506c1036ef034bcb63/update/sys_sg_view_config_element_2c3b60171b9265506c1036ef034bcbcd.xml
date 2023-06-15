@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>u_est_fy23_cost-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-04-24 13:55:38</sys_created_on>
+        <sys_id>2c3b60171b9265506c1036ef034bcbcd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_est_fy23_cost-FieldValue</sys_name>
+        <sys_package display_value="DSpoPurchaseOrders" source="x_dosny_dspopurcha">3fba2c531b9265506c1036ef034bcb63</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DSpoPurchaseOrders">3fba2c531b9265506c1036ef034bcb63</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_2c3b60171b9265506c1036ef034bcbcd</sys_update_name>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-04-24 13:55:38</sys_updated_on>
+        <view_config display_value="Purchase Order Detail Screen View Config">6c3b60171b9265506c1036ef034bcbc5</view_config>
+        <view_template_slot display_value="text_03">ef5ef07841e35010f877183fc9b8be34</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

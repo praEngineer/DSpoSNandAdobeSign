@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c23f97571b9fe5106c1036ef034bcb38" label="DSpo Financial Info" max_length="40" name="x_dosny_dspopurcha_dspo_financial_info" type="collection">
+        <element label="ACCTG LINE NO" max_length="10" name="acctg_line_no" type="string_full_utf8"/>
+        <element label="APPR. UNIT" max_length="10" name="appr_unit" type="string"/>
+        <element label="BFY" max_length="10" name="bfy" type="string"/>
+        <element label="BUDGET CODE" max_length="10" name="budget_code" type="string"/>
+        <element label="CAPITAL PROJECT ID 01" max_length="5" name="capital_project_id_01" type="string"/>
+        <element label="CAPITAL PROJECT ID 02" max_length="10" name="capital_project_id_02" type="string"/>
+        <element label="CAPITAL PROJECT ID 03" max_length="5" name="capital_project_id_03" type="string"/>
+        <element label="DEPT" max_length="5" name="dept" type="string"/>
+        <element label="DETAIL OBJECT" max_length="10" name="detail_object" type="string"/>
+        <element label="DSpo proc_po  sys_id" max_length="32" name="dspo_proc_po_sys_id" reference="proc_po" type="reference"/>
+        <element label="FUND" max_length="10" name="fund" type="string"/>
+        <element label="REPTCAT/QUICK" max_length="10" name="reptcat_quick" type="string"/>
+        <element label="SUB OBJECT" max_length="10" name="sub_object" type="string"/>
+        <element label="SUB UNIT" max_length="5" name="sub_unit" type="string"/>
+        <element display="true" label="TASK" max_length="10" name="task" type="string"/>
+        <element label="UNIT" max_length="5" name="unit" reference="cmn_location" type="string"/>
+        <index name="index">
+            <element name="dspo_proc_po_sys_id"/>
+        </index>
+    </element>
+</database>

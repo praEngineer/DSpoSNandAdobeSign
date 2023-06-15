@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2b8ee08a1b8c995010c26391ec4bcbab" label="Purchase Order" max_length="40" name="proc_po" type="collection">
+        <element choice="1" label="DSpo Commodity Type" max_length="40" name="x_dosny_dspopurcha_commodity_type" type="choice">
+            <choice>
+                <element hint="Commodity Purchase Order -- DOI_Delivery Order" inactive_on_update="false" label="DOI-Delivery Order" sequence="10" value="1"/>
+                <element hint="Commodity Purchase Order DOC-Commodity Purchase Order" inactive_on_update="false" label="DOC-Commodity Purchase Order" sequence="20" value="2"/>
+                <element hint="Commodity Purchase Order SI_Ship Inst" inactive_on_update="false" label="SI-Ship Inst" sequence="30" value="3"/>
+                <element hint="Commodity Purchase Order Blanket Order" inactive_on_update="false" label="Blanket Order" sequence="40" value="4"/>
+            </choice>
+        </element>
+        <element label="DSpo Financial Info" max_length="32" name="x_dosny_dspopurcha_dspo_financial_info" reference="x_dosny_dspopurcha_dspo_financial_info" type="reference"/>
+        <element choice="1" label="DSpo Non-Commodity Type" max_length="40" name="x_dosny_dspopurcha_dspo_non_commodity_purchase_order" type="choice">
+            <choice>
+                <element hint="Non-commodity Purchase Order PONI-Non Commodity PO" inactive_on_update="false" label="PONI_NOn Commodity PO" sequence="10" value="5"/>
+            </choice>
+        </element>
+    </element>
+</database>

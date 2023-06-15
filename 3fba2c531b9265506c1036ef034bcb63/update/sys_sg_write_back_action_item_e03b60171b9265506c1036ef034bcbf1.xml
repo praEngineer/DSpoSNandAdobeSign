@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Delete (Purchase Order)</name>
+        <parameter_screen/>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-04-24 13:55:38</sys_created_on>
+        <sys_id>e03b60171b9265506c1036ef034bcbf1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (Purchase Order)</sys_name>
+        <sys_package display_value="DSpoPurchaseOrders" source="x_dosny_dspopurcha">3fba2c531b9265506c1036ef034bcb63</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DSpoPurchaseOrders">3fba2c531b9265506c1036ef034bcb63</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_e03b60171b9265506c1036ef034bcbf1</sys_update_name>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-04-24 13:55:38</sys_updated_on>
+        <table>proc_po</table>
+        <template/>
+        <type>delete</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+</record_update>

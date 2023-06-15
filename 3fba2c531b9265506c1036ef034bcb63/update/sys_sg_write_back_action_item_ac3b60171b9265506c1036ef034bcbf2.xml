@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>New (Purchase Order)</name>
+        <parameter_screen/>
+        <query_condition table="proc_po">sys_idSTARTSWITH{{Purchase Order sys_id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{Purchase Order sys_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-04-24 13:55:38</sys_created_on>
+        <sys_id>ac3b60171b9265506c1036ef034bcbf2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>New (Purchase Order)</sys_name>
+        <sys_package display_value="DSpoPurchaseOrders" source="x_dosny_dspopurcha">3fba2c531b9265506c1036ef034bcb63</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DSpoPurchaseOrders">3fba2c531b9265506c1036ef034bcb63</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_ac3b60171b9265506c1036ef034bcbf2</sys_update_name>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-04-24 13:55:38</sys_updated_on>
+        <table>proc_po</table>
+        <template>asset_operation={{Purchase Order asset_operation}}^assigned_to={{Purchase Order assigned_to}}^bill_to={{Purchase Order bill_to}}^budget_number={{Purchase Order budget_number}}^contract={{Purchase Order contract}}^department={{Purchase Order department}}^description={{Purchase Order description}}^due_by={{Purchase Order due_by}}^expected_delivery={{Purchase Order expected_delivery}}^init_request={{Purchase Order init_request}}^location={{Purchase Order location}}^number={{Purchase Order number}}^ordered={{Purchase Order ordered}}^po_date={{Purchase Order po_date}}^received={{Purchase Order received}}^EQ</template>
+        <type>new</type>
+        <use_current_record_as_condition>false</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+</record_update>

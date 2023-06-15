@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Purchase Order contract</name>
+        <parent>ac3b60171b9265506c1036ef034bcbf2</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-04-24 13:55:38</sys_created_on>
+        <sys_id>ac3ba0171b9265506c1036ef034bcb01</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Purchase Order contract</sys_name>
+        <sys_package display_value="DSpoPurchaseOrders" source="x_dosny_dspopurcha">3fba2c531b9265506c1036ef034bcb63</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DSpoPurchaseOrders">3fba2c531b9265506c1036ef034bcb63</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_ac3ba0171b9265506c1036ef034bcb01</sys_update_name>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-04-24 13:55:38</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

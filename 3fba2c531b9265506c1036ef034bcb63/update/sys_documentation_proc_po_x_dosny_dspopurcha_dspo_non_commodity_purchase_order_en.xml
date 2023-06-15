@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_dosny_dspopurcha_dspo_non_commodity_purchase_order" label="DSpo Non-Commodity Type" language="en" table="proc_po">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_dosny_dspopurcha_dspo_non_commodity_purchase_order</element>
+            <help/>
+            <hint/>
+            <label>DSpo Non-Commodity Type</label>
+            <language>en</language>
+            <name>proc_po</name>
+            <plural>DSpo Non-Commodity Types</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-06-15 16:26:58</sys_created_on>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>DSpo Non-Commodity Type</sys_name>
+            <sys_package display_value="DSpoPurchaseOrders" source="x_dosny_dspopurcha">3fba2c531b9265506c1036ef034bcb63</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DSpoPurchaseOrders">3fba2c531b9265506c1036ef034bcb63</sys_scope>
+            <sys_update_name>sys_documentation_proc_po_x_dosny_dspopurcha_dspo_non_commodity_purchase_order_en</sys_update_name>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-06-15 16:27:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
