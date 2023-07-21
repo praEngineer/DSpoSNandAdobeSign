@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="comm_quantity" label="COMM QUANTITY" language="en" table="x_dosny_dspopurcha_dspo_commodity_info">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>comm_quantity</element>
+            <help/>
+            <hint/>
+            <label>COMM QUANTITY</label>
+            <language>en</language>
+            <name>x_dosny_dspopurcha_dspo_commodity_info</name>
+            <plural>COMM QUANTITYs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-19 17:33:20</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>COMM QUANTITY</sys_name>
+            <sys_package display_value="DSpoPurchaseOrders" source="x_dosny_dspopurcha">3fba2c531b9265506c1036ef034bcb63</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DSpoPurchaseOrders">3fba2c531b9265506c1036ef034bcb63</sys_scope>
+            <sys_update_name>sys_documentation_x_dosny_dspopurcha_dspo_commodity_info_comm_quantity_en</sys_update_name>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-19 17:33:20</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

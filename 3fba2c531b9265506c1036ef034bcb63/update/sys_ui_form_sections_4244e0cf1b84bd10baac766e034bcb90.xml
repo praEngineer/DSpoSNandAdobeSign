@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="4244e0cf1b84bd10baac766e034bcb90" sys_domain="global" table="proc_po_item" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-20 16:00:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cb0a01db1b48fd10baac766e034bcb62</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="proc_po_item" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">4244e0cf1b84bd10baac766e034bcb90</sys_ui_form>
+            <sys_ui_section caption="Purchase Order Table" display_value="Purchase Order Table" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">3e0a01db1b48fd10baac766e034bcb5f</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-20 20:00:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-19 18:36:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8244e0cf1b84bd10baac766e034bcb93</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="proc_po_item" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">4244e0cf1b84bd10baac766e034bcb90</sys_ui_form>
+            <sys_ui_section caption="Vendor (company) Information" display_value="Vendor (company) Information" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">8244e0cf1b84bd10baac766e034bcb92</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-20 20:00:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-20 19:55:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4edf79d71b4cfd10baac766e034bcb55</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="proc_po_item" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">4244e0cf1b84bd10baac766e034bcb90</sys_ui_form>
+            <sys_ui_section caption="Deliver to Where" display_value="Deliver to Where" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">0edf79d71b4cfd10baac766e034bcb52</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-20 20:00:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-21 15:00:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>60f546e31b8c3150baac766e034bcbfe</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="proc_po_item" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">4244e0cf1b84bd10baac766e034bcb90</sys_ui_form>
+            <sys_ui_section caption="Deliver to Whom" display_value="Deliver to Whom" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">e0f546e31b8c3150baac766e034bcbfa</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 15:01:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-19 18:37:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>216424cf1b84bd10baac766e034bcbc8</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="proc_po_item" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">4244e0cf1b84bd10baac766e034bcb90</sys_ui_form>
+            <sys_ui_section caption="Commodity Row" display_value="Commodity Row" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">ed6424cf1b84bd10baac766e034bcbc5</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 15:01:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-19 18:37:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6174a48f1b84bd10baac766e034bcb39</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="proc_po_item" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">4244e0cf1b84bd10baac766e034bcb90</sys_ui_form>
+            <sys_ui_section caption="Financials Row" display_value="Financials Row" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9d74a48f1b84bd10baac766e034bcb36</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 15:01:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-19 18:38:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>129464cf1b84bd10baac766e034bcb64</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="proc_po_item" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">4244e0cf1b84bd10baac766e034bcb90</sys_ui_form>
+            <sys_ui_section caption="Reference Row" display_value="Reference Row" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">ca9464cf1b84bd10baac766e034bcb61</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 15:01:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>7</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-19 18:38:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4fa4e48f1b84bd10baac766e034bcb41</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="proc_po_item" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">4244e0cf1b84bd10baac766e034bcb90</sys_ui_form>
+            <sys_ui_section caption="Description Row" display_value="Description Row" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">87a4e48f1b84bd10baac766e034bcb3f</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 15:01:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>8</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-19 18:38:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ccc4a8cf1b84bd10baac766e034bcb3b</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="proc_po_item" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">4244e0cf1b84bd10baac766e034bcb90</sys_ui_form>
+            <sys_ui_section caption="Prepared and Approved" display_value="Prepared and Approved" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">84c4a8cf1b84bd10baac766e034bcb39</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 15:01:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>proc_po_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-19 18:36:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4244e0cf1b84bd10baac766e034bcb90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>proc_po_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="DSpoPurchaseOrders" source="x_dosny_dspopurcha">3fba2c531b9265506c1036ef034bcb63</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DSpoPurchaseOrders">3fba2c531b9265506c1036ef034bcb63</sys_scope>
+            <sys_update_name>sys_ui_form_sections_4244e0cf1b84bd10baac766e034bcb90</sys_update_name>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-19 18:36:50</sys_updated_on>
+            <sys_user/>
+            <view display_value="DSpo" name="dspo">bf1b41461b1eed106c1036ef034bcb1a</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

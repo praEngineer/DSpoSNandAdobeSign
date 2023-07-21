@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d38ee08a1b8c995010c26391ec4bcb16" label="Purchase order line items" max_length="40" name="proc_po_item" type="collection">
+        <element label="Approved by Whom" max_length="32" name="x_dosny_dspopurcha_approved_by_whom" reference="sys_user" type="reference"/>
+        <element label="Deliver To This" max_length="32" name="x_dosny_dspopurcha_deliver_to_this" reference="u_location_reference_data" type="reference"/>
+        <element label="Deliver to Whom" max_length="32" name="x_dosny_dspopurcha_deliver_to_whom" reference="sys_user" type="reference"/>
+        <element dynamic_creation="true" label="DSpo Financial Info" max_length="32" name="x_dosny_dspopurcha_dspofinancialinfo" reference="x_dosny_dspopurcha_dspo_financial_info" type="reference"/>
+        <element label="Prepared by Whom" max_length="32" name="x_dosny_dspopurcha_prepared_by_whom" reference="sys_user" type="reference"/>
+        <element label="Received by Whom" max_length="32" name="x_dosny_dspopurcha_received_by_whom" reference="sys_user" type="reference"/>
+        <element label="Ship To" max_length="32" name="x_dosny_dspopurcha_ship_to" read_only="true" reference="u_location_reference_data" type="reference"/>
+        <index name="index">
+            <element name="x_dosny_dspopurcha_ship_to"/>
+        </index>
+    </element>
+</database>

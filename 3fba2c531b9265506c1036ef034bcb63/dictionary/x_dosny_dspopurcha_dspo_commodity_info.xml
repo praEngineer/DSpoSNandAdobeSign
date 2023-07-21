@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="98c49c4b1b44bd10baac766e034bcb01" label="DSpo Commodity Info" max_length="40" name="x_dosny_dspopurcha_dspo_commodity_info" type="collection">
+        <element label="COMM COMMODITY" max_length="15" name="comm_commodity" type="string"/>
+        <element label="COMM DESCRIPTION" max_length="40" name="comm_description" type="string"/>
+        <element label="COMM FN DOC ID" max_length="10" name="comm_fn_doc_id" type="string"/>
+        <element label="COMM. LINE #" max_length="10" name="comm_line" type="string"/>
+        <element label="COMM LINE AMOUNT" max_length="20" name="comm_line_amount" type="currency"/>
+        <element label="COMM QUANTITY" max_length="5" name="comm_quantity" type="string"/>
+        <element label="COMM UNIT PRICE" max_length="20" name="comm_unit_price" type="currency"/>
+        <element label="COMM UNIT(S)" max_length="5" name="comm_unit_s" type="string"/>
+        <element display="true" dynamic_creation="true" label="ParentPoItem" max_length="32" name="parentpoitem" reference="proc_po_item" reference_cascade_rule="delete" reference_key="sys_id" type="reference"/>
+        <index name="index">
+            <element name="parentpoitem"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="9b14e0cf1b84bd10baac766e034bcb74" sys_domain="global" table="proc_po_item" version="3" view="dspo">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-19 18:36:05</sys_created_on>
+            <sys_id>9b14e0cf1b84bd10baac766e034bcb75</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-19 18:36:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vendor</element>
+            <position>1</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-19 18:36:05</sys_created_on>
+            <sys_id>9314e0cf1b84bd10baac766e034bcb76</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-19 18:36:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ordered</element>
+            <position>2</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-19 18:36:05</sys_created_on>
+            <sys_id>9714e0cf1b84bd10baac766e034bcb76</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-19 18:36:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>3</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-19 18:36:05</sys_created_on>
+            <sys_id>9b14e0cf1b84bd10baac766e034bcb76</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-19 18:36:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ordered_quantity</element>
+            <position>4</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-19 18:36:05</sys_created_on>
+            <sys_id>9f14e0cf1b84bd10baac766e034bcb76</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-19 18:36:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>expected_delivery</element>
+            <position>5</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-19 18:36:05</sys_created_on>
+            <sys_id>9314e0cf1b84bd10baac766e034bcb77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-19 18:36:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>received</element>
+            <position>6</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-19 18:36:05</sys_created_on>
+            <sys_id>9714e0cf1b84bd10baac766e034bcb77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-19 18:36:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>model</element>
+            <position>7</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-19 18:36:05</sys_created_on>
+            <sys_id>9b14e0cf1b84bd10baac766e034bcb77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-19 18:36:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>8</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-19 18:36:05</sys_created_on>
+            <sys_id>9f14e0cf1b84bd10baac766e034bcb77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-19 18:36:05</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>purchase_order</element>
+            <position>9</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-19 18:36:05</sys_created_on>
+            <sys_id>9314e0cf1b84bd10baac766e034bcb78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-19 18:36:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>10</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-19 18:36:05</sys_created_on>
+            <sys_id>9714e0cf1b84bd10baac766e034bcb78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-19 18:36:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cost</element>
+            <position>11</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-19 18:36:05</sys_created_on>
+            <sys_id>9b14e0cf1b84bd10baac766e034bcb78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-19 18:36:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total_cost</element>
+            <position>12</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-19 18:36:05</sys_created_on>
+            <sys_id>9f14e0cf1b84bd10baac766e034bcb78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-19 18:36:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>list_price</element>
+            <position>13</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-19 18:36:05</sys_created_on>
+            <sys_id>9314e0cf1b84bd10baac766e034bcb79</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-19 18:36:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total_list_price</element>
+            <position>14</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-19 18:36:05</sys_created_on>
+            <sys_id>9714e0cf1b84bd10baac766e034bcb79</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-19 18:36:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>15</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-19 18:36:05</sys_created_on>
+            <sys_id>9b14e0cf1b84bd10baac766e034bcb79</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-19 18:36:05</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_description</element>
+            <position>16</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-19 18:36:05</sys_created_on>
+            <sys_id>9f14e0cf1b84bd10baac766e034bcb79</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-19 18:36:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>proc_po_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-19 18:36:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9b14e0cf1b84bd10baac766e034bcb74</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>proc_po_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="DSpoPurchaseOrders" source="x_dosny_dspopurcha">3fba2c531b9265506c1036ef034bcb63</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DSpoPurchaseOrders">3fba2c531b9265506c1036ef034bcb63</sys_scope>
+            <sys_update_name>sys_ui_section_9b14e0cf1b84bd10baac766e034bcb74</sys_update_name>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-19 18:36:05</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="DSpo" name="dspo">bf1b41461b1eed106c1036ef034bcb1a</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DSpoPurchaseOrders">3fba2c531b9265506c1036ef034bcb63</application>
+        <file_path/>
+        <instance_id>d1068f71dbe79b08439ef70fbf96194a</instance_id>
+        <instance_name>nycdsdev1</instance_name>
+        <name>sys_ui_section_9b14e0cf1b84bd10baac766e034bcb74</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="9b14e0cf1b84bd10baac766e034bcb74" sys_domain="global" table="proc_po_item" version="3" view="dspo"><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>sfarkas</sys_created_by><sys_created_on>2023-07-19 18:36:05</sys_created_on><sys_id>9b14e0cf1b84bd10baac766e034bcb75</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section><sys_updated_by>sfarkas</sys_updated_by><sys_updated_on>2023-07-19 18:36:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>vendor</element><position>1</position><sys_created_by>sfarkas</sys_created_by><sys_created_on>2023-07-19 18:36:05</sys_created_on><sys_id>9314e0cf1b84bd10baac766e034bcb76</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section><sys_updated_by>sfarkas</sys_updated_by><sys_updated_on>2023-07-19 18:36:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>ordered</element><position>2</position><sys_created_by>sfarkas</sys_created_by><sys_created_on>2023-07-19 18:36:05</sys_created_on><sys_id>9714e0cf1b84bd10baac766e034bcb76</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section><sys_updated_by>sfarkas</sys_updated_by><sys_updated_on>2023-07-19 18:36:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>3</position><sys_created_by>sfarkas</sys_created_by><sys_created_on>2023-07-19 18:36:05</sys_created_on><sys_id>9b14e0cf1b84bd10baac766e034bcb76</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section><sys_updated_by>sfarkas</sys_updated_by><sys_updated_on>2023-07-19 18:36:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>ordered_quantity</element><position>4</position><sys_created_by>sfarkas</sys_created_by><sys_created_on>2023-07-19 18:36:05</sys_created_on><sys_id>9f14e0cf1b84bd10baac766e034bcb76</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section><sys_updated_by>sfarkas</sys_updated_by><sys_updated_on>2023-07-19 18:36:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>expected_delivery</element><position>5</position><sys_created_by>sfarkas</sys_created_by><sys_created_on>2023-07-19 18:36:05</sys_created_on><sys_id>9314e0cf1b84bd10baac766e034bcb77</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section><sys_updated_by>sfarkas</sys_updated_by><sys_updated_on>2023-07-19 18:36:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>received</element><position>6</position><sys_created_by>sfarkas</sys_created_by><sys_created_on>2023-07-19 18:36:05</sys_created_on><sys_id>9714e0cf1b84bd10baac766e034bcb77</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section><sys_updated_by>sfarkas</sys_updated_by><sys_updated_on>2023-07-19 18:36:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>model</element><position>7</position><sys_created_by>sfarkas</sys_created_by><sys_created_on>2023-07-19 18:36:05</sys_created_on><sys_id>9b14e0cf1b84bd10baac766e034bcb77</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section><sys_updated_by>sfarkas</sys_updated_by><sys_updated_on>2023-07-19 18:36:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>8</position><sys_created_by>sfarkas</sys_created_by><sys_created_on>2023-07-19 18:36:05</sys_created_on><sys_id>9f14e0cf1b84bd10baac766e034bcb77</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section><sys_updated_by>sfarkas</sys_updated_by><sys_updated_on>2023-07-19 18:36:05</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>purchase_order</element><position>9</position><sys_created_by>sfarkas</sys_created_by><sys_created_on>2023-07-19 18:36:05</sys_created_on><sys_id>9314e0cf1b84bd10baac766e034bcb78</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section><sys_updated_by>sfarkas</sys_updated_by><sys_updated_on>2023-07-19 18:36:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>status</element><position>10</position><sys_created_by>sfarkas</sys_created_by><sys_created_on>2023-07-19 18:36:05</sys_created_on><sys_id>9714e0cf1b84bd10baac766e034bcb78</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section><sys_updated_by>sfarkas</sys_updated_by><sys_updated_on>2023-07-19 18:36:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>cost</element><position>11</position><sys_created_by>sfarkas</sys_created_by><sys_created_on>2023-07-19 18:36:05</sys_created_on><sys_id>9b14e0cf1b84bd10baac766e034bcb78</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section><sys_updated_by>sfarkas</sys_updated_by><sys_updated_on>2023-07-19 18:36:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>total_cost</element><position>12</position><sys_created_by>sfarkas</sys_created_by><sys_created_on>2023-07-19 18:36:05</sys_created_on><sys_id>9f14e0cf1b84bd10baac766e034bcb78</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section><sys_updated_by>sfarkas</sys_updated_by><sys_updated_on>2023-07-19 18:36:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>list_price</element><position>13</position><sys_created_by>sfarkas</sys_created_by><sys_created_on>2023-07-19 18:36:05</sys_created_on><sys_id>9314e0cf1b84bd10baac766e034bcb79</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section><sys_updated_by>sfarkas</sys_updated_by><sys_updated_on>2023-07-19 18:36:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>total_list_price</element><position>14</position><sys_created_by>sfarkas</sys_created_by><sys_created_on>2023-07-19 18:36:05</sys_created_on><sys_id>9714e0cf1b84bd10baac766e034bcb79</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section><sys_updated_by>sfarkas</sys_updated_by><sys_updated_on>2023-07-19 18:36:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>15</position><sys_created_by>sfarkas</sys_created_by><sys_created_on>2023-07-19 18:36:05</sys_created_on><sys_id>9b14e0cf1b84bd10baac766e034bcb79</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section><sys_updated_by>sfarkas</sys_updated_by><sys_updated_on>2023-07-19 18:36:05</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_description</element><position>16</position><sys_created_by>sfarkas</sys_created_by><sys_created_on>2023-07-19 18:36:05</sys_created_on><sys_id>9f14e0cf1b84bd10baac766e034bcb79</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9b14e0cf1b84bd10baac766e034bcb74</sys_ui_section><sys_updated_by>sfarkas</sys_updated_by><sys_updated_on>2023-07-19 18:36:05</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>proc_po_item</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>sfarkas</sys_created_by><sys_created_on>2023-07-19 18:36:05</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9b14e0cf1b84bd10baac766e034bcb74</sys_id><sys_mod_count>0</sys_mod_count><sys_name>proc_po_item</sys_name><sys_overrides/><sys_package display_value="DSpoPurchaseOrders" source="x_dosny_dspopurcha">3fba2c531b9265506c1036ef034bcb63</sys_package><sys_policy/><sys_scope display_value="DSpoPurchaseOrders">3fba2c531b9265506c1036ef034bcb63</sys_scope><sys_update_name>sys_ui_section_9b14e0cf1b84bd10baac766e034bcb74</sys_update_name><sys_updated_by>sfarkas</sys_updated_by><sys_updated_on>2023-07-19 18:36:05</sys_updated_on><sys_user/><title>false</title><view display_value="DSpo" name="dspo">bf1b41461b1eed106c1036ef034bcb1a</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>54308597</payload_hash>
+        <record_name>Purchase order line items</record_name>
+        <reverted_from/>
+        <source>20050dcc1b2ba9106c1036ef034bcb90</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-07-19 18:36:05</sys_created_on>
+        <sys_id>d714e0cf1b84bd10baac766e034bcb7e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1896f701c550000001</sys_recorded_at>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-07-19 18:36:05</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>df14e0cf3f84bd10e56c54b9ef64877d</update_guid>
+        <update_guid_history>df14e0cf3f84bd10e56c54b9ef64877d:54308597</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-07-20 15:32:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>025aff4a4fe546d0874561b04dd0c710</sys_id>
+        <sys_metadata>9b14e0cf1b84bd10baac766e034bcb74</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>proc_po_item</sys_name>
+        <sys_package display_value="DSpoPurchaseOrders" source="x_dosny_dspopurcha">3fba2c531b9265506c1036ef034bcb63</sys_package>
+        <sys_parent display_value="Purchase order line items">d38ee08a1b8c995010c26391ec4bcb16</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="DSpoPurchaseOrders">3fba2c531b9265506c1036ef034bcb63</sys_scope>
+        <sys_scope_delete display_value="">536a77d4c44442c0a20faf9fc856c400</sys_scope_delete>
+        <sys_update_name>sys_ui_section_9b14e0cf1b84bd10baac766e034bcb74</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_9b14e0cf1b84bd10baac766e034bcb74">d714e0cf1b84bd10baac766e034bcb7e</sys_update_version>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-07-20 15:32:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

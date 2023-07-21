@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Financials Row" section_id="9d74a48f1b84bd10baac766e034bcb36" sys_domain="global" table="proc_po_item" version="3" view="dspo">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_dosny_dspopurcha_dspofinancialinfo</element>
+            <position>0</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-21 17:57:26</sys_created_on>
+            <sys_id>2c7eeae31b407150baac766e034bcb88</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financials Row" display_value="Financials Row" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9d74a48f1b84bd10baac766e034bcb36</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 17:57:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_dosny_dspopurcha_dspofinancialinfo.acctg_line_no</element>
+            <position>1</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-21 17:57:26</sys_created_on>
+            <sys_id>247eeae31b407150baac766e034bcb89</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financials Row" display_value="Financials Row" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9d74a48f1b84bd10baac766e034bcb36</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 17:57:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_dosny_dspopurcha_dspofinancialinfo.bfy</element>
+            <position>2</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-21 17:57:26</sys_created_on>
+            <sys_id>287eeae31b407150baac766e034bcb89</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financials Row" display_value="Financials Row" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9d74a48f1b84bd10baac766e034bcb36</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 17:57:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_dosny_dspopurcha_dspofinancialinfo.fund</element>
+            <position>3</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-21 17:57:26</sys_created_on>
+            <sys_id>2c7eeae31b407150baac766e034bcb89</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financials Row" display_value="Financials Row" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9d74a48f1b84bd10baac766e034bcb36</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 17:57:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_dosny_dspopurcha_dspofinancialinfo.dept</element>
+            <position>4</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-21 17:57:26</sys_created_on>
+            <sys_id>207eeae31b407150baac766e034bcb8a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financials Row" display_value="Financials Row" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9d74a48f1b84bd10baac766e034bcb36</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 17:57:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_dosny_dspopurcha_dspofinancialinfo.appr_unit</element>
+            <position>5</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-21 17:57:26</sys_created_on>
+            <sys_id>247eeae31b407150baac766e034bcb8a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financials Row" display_value="Financials Row" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9d74a48f1b84bd10baac766e034bcb36</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 17:57:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_dosny_dspopurcha_dspofinancialinfo.budget_code</element>
+            <position>6</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-21 17:57:26</sys_created_on>
+            <sys_id>287eeae31b407150baac766e034bcb8a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financials Row" display_value="Financials Row" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9d74a48f1b84bd10baac766e034bcb36</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 17:57:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_dosny_dspopurcha_dspofinancialinfo.detail_object</element>
+            <position>7</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-21 17:57:26</sys_created_on>
+            <sys_id>2c7eeae31b407150baac766e034bcb8a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financials Row" display_value="Financials Row" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9d74a48f1b84bd10baac766e034bcb36</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 17:57:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_dosny_dspopurcha_dspofinancialinfo.sub_object</element>
+            <position>8</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-21 17:57:26</sys_created_on>
+            <sys_id>207eeae31b407150baac766e034bcb8b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financials Row" display_value="Financials Row" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9d74a48f1b84bd10baac766e034bcb36</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 17:57:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_dosny_dspopurcha_dspofinancialinfo.reptcat_quick</element>
+            <position>9</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-21 17:57:26</sys_created_on>
+            <sys_id>247eeae31b407150baac766e034bcb8b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financials Row" display_value="Financials Row" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9d74a48f1b84bd10baac766e034bcb36</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 17:57:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_dosny_dspopurcha_dspofinancialinfo.capital_project_id_01</element>
+            <position>10</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-21 17:57:26</sys_created_on>
+            <sys_id>287eeae31b407150baac766e034bcb8b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financials Row" display_value="Financials Row" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9d74a48f1b84bd10baac766e034bcb36</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 17:57:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_dosny_dspopurcha_dspofinancialinfo.capital_project_id_02</element>
+            <position>11</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-21 17:57:26</sys_created_on>
+            <sys_id>2c7eeae31b407150baac766e034bcb8b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financials Row" display_value="Financials Row" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9d74a48f1b84bd10baac766e034bcb36</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 17:57:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_dosny_dspopurcha_dspofinancialinfo.capital_project_id_03</element>
+            <position>12</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-21 17:57:26</sys_created_on>
+            <sys_id>207eeae31b407150baac766e034bcb8c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financials Row" display_value="Financials Row" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9d74a48f1b84bd10baac766e034bcb36</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 17:57:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_dosny_dspopurcha_dspofinancialinfo.unit</element>
+            <position>13</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-21 17:57:26</sys_created_on>
+            <sys_id>247eeae31b407150baac766e034bcb8c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financials Row" display_value="Financials Row" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9d74a48f1b84bd10baac766e034bcb36</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 17:57:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_dosny_dspopurcha_dspofinancialinfo.sub_unit</element>
+            <position>14</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-21 17:57:26</sys_created_on>
+            <sys_id>287eeae31b407150baac766e034bcb8c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financials Row" display_value="Financials Row" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9d74a48f1b84bd10baac766e034bcb36</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 17:57:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_dosny_dspopurcha_dspofinancialinfo.task</element>
+            <position>15</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-21 17:57:26</sys_created_on>
+            <sys_id>2c7eeae31b407150baac766e034bcb8c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Financials Row" display_value="Financials Row" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">9d74a48f1b84bd10baac766e034bcb36</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 17:57:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Financials Row</caption>
+            <header>false</header>
+            <name>proc_po_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-19 18:37:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9d74a48f1b84bd10baac766e034bcb36</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>proc_po_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="DSpoPurchaseOrders" source="x_dosny_dspopurcha">3fba2c531b9265506c1036ef034bcb63</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DSpoPurchaseOrders">3fba2c531b9265506c1036ef034bcb63</sys_scope>
+            <sys_update_name>sys_ui_section_9d74a48f1b84bd10baac766e034bcb36</sys_update_name>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-19 18:37:36</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="DSpo" name="dspo">bf1b41461b1eed106c1036ef034bcb1a</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

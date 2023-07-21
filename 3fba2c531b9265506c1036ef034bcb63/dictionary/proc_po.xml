@@ -8,7 +8,6 @@
                 <element hint="Commodity Purchase Order Blanket Order" inactive_on_update="false" label="Blanket Order" sequence="40" value="4"/>
             </choice>
         </element>
-        <element label="DSpo Financial Info" max_length="32" name="x_dosny_dspopurcha_dspo_financial_info" reference="x_dosny_dspopurcha_dspo_financial_info" type="reference"/>
         <element choice="1" label="DSpo Non-Commodity Type" max_length="40" name="x_dosny_dspopurcha_dspo_non_commodity_purchase_order" type="choice">
             <choice>
                 <element hint="Non-commodity Purchase Order PONI-Non Commodity PO" inactive_on_update="false" label="PONI_NOn Commodity PO" sequence="10" value="5"/>

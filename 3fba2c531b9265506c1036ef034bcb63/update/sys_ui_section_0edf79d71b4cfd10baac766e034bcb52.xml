@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Deliver to Where" section_id="0edf79d71b4cfd10baac766e034bcb52" sys_domain="global" table="proc_po_item" version="3" view="dspo">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_dosny_dspopurcha_deliver_to_this</element>
+            <position>0</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-21 15:11:59</sys_created_on>
+            <sys_id>f49842e71b8c3150baac766e034bcbe2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Deliver to Where" display_value="Deliver to Where" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">0edf79d71b4cfd10baac766e034bcb52</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 15:11:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_dosny_dspopurcha_deliver_to_this.u_sn_description</element>
+            <position>1</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-21 15:11:59</sys_created_on>
+            <sys_id>f89842e71b8c3150baac766e034bcbe2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Deliver to Where" display_value="Deliver to Where" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">0edf79d71b4cfd10baac766e034bcb52</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 15:11:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_dosny_dspopurcha_deliver_to_this.u_street_address</element>
+            <position>2</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-21 15:11:59</sys_created_on>
+            <sys_id>fc9842e71b8c3150baac766e034bcbe2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Deliver to Where" display_value="Deliver to Where" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">0edf79d71b4cfd10baac766e034bcb52</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 15:11:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Deliver to Where</caption>
+            <header>false</header>
+            <name>proc_po_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-20 19:55:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0edf79d71b4cfd10baac766e034bcb52</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>proc_po_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="DSpoPurchaseOrders" source="x_dosny_dspopurcha">3fba2c531b9265506c1036ef034bcb63</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DSpoPurchaseOrders">3fba2c531b9265506c1036ef034bcb63</sys_scope>
+            <sys_update_name>sys_ui_section_0edf79d71b4cfd10baac766e034bcb52</sys_update_name>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 15:11:58</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="DSpo" name="dspo">bf1b41461b1eed106c1036ef034bcb1a</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

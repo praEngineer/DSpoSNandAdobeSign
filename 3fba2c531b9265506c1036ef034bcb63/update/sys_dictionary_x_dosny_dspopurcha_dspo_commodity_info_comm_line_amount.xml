@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="task" table="x_dosny_dspopurcha_dspo_financial_info">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="comm_line_amount" table="x_dosny_dspopurcha_dspo_commodity_info">
         <active>true</active>
         <array>false</array>
         <attributes/>
@@ -13,7 +13,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>TASK</column_label>
+        <column_label>COMM LINE AMOUNT</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -26,16 +26,16 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>task</element>
+        <element>comm_line_amount</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="Currency">currency</internal_type>
         <mandatory>false</mandatory>
-        <max_length>10</max_length>
-        <name>x_dosny_dspopurcha_dspo_financial_info</name>
+        <max_length>20</max_length>
+        <name>x_dosny_dspopurcha_dspo_commodity_info</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -51,14 +51,14 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>sfarkas</sys_created_by>
-        <sys_created_on>2023-06-13 20:35:03</sys_created_on>
-        <sys_name>TASK</sys_name>
+        <sys_created_on>2023-07-19 17:32:29</sys_created_on>
+        <sys_name>COMM LINE AMOUNT</sys_name>
         <sys_package display_value="DSpoPurchaseOrders" source="x_dosny_dspopurcha">3fba2c531b9265506c1036ef034bcb63</sys_package>
         <sys_policy/>
         <sys_scope display_value="DSpoPurchaseOrders">3fba2c531b9265506c1036ef034bcb63</sys_scope>
-        <sys_update_name>sys_dictionary_x_dosny_dspopurcha_dspo_financial_info_task</sys_update_name>
+        <sys_update_name>sys_dictionary_x_dosny_dspopurcha_dspo_commodity_info_comm_line_amount</sys_update_name>
         <sys_updated_by>sfarkas</sys_updated_by>
-        <sys_updated_on>2023-07-19 20:51:56</sys_updated_on>
+        <sys_updated_on>2023-07-19 17:33:20</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

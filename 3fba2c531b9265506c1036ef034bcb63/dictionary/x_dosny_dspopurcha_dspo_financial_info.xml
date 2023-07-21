@@ -9,15 +9,15 @@
         <element label="CAPITAL PROJECT ID 03" max_length="5" name="capital_project_id_03" type="string"/>
         <element label="DEPT" max_length="5" name="dept" type="string"/>
         <element label="DETAIL OBJECT" max_length="10" name="detail_object" type="string"/>
-        <element label="DSpo proc_po  sys_id" max_length="32" name="dspo_proc_po_sys_id" reference="proc_po" type="reference"/>
         <element label="FUND" max_length="10" name="fund" type="string"/>
+        <element label="Purchase order line items" max_length="32" name="purchase_order_line_items" reference="proc_po_item" type="reference"/>
         <element label="REPTCAT/QUICK" max_length="10" name="reptcat_quick" type="string"/>
         <element label="SUB OBJECT" max_length="10" name="sub_object" type="string"/>
         <element label="SUB UNIT" max_length="5" name="sub_unit" type="string"/>
-        <element display="true" label="TASK" max_length="10" name="task" type="string"/>
+        <element label="TASK" max_length="10" name="task" type="string"/>
         <element label="UNIT" max_length="5" name="unit" reference="cmn_location" type="string"/>
         <index name="index">
-            <element name="dspo_proc_po_sys_id"/>
+            <element name="purchase_order_line_items"/>
         </index>
     </element>
 </database>

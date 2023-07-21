@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Commodity Row" section_id="ed6424cf1b84bd10baac766e034bcbc5" sys_domain="global" table="proc_po_item" version="3" view="dspo">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_dspo_commodity_info</element>
+            <position>0</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-21 20:14:25</sys_created_on>
+            <sys_id>43cd83671bc07150baac766e034bcb22</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Commodity Row" display_value="Commodity Row" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">ed6424cf1b84bd10baac766e034bcbc5</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 20:14:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_dspo_commodity_info.comm_line</element>
+            <position>1</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-21 20:14:25</sys_created_on>
+            <sys_id>4bcd83671bc07150baac766e034bcb22</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Commodity Row" display_value="Commodity Row" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">ed6424cf1b84bd10baac766e034bcbc5</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 20:14:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_dspo_commodity_info.comm_commodity</element>
+            <position>2</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-21 20:14:25</sys_created_on>
+            <sys_id>4fcd83671bc07150baac766e034bcb22</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Commodity Row" display_value="Commodity Row" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">ed6424cf1b84bd10baac766e034bcbc5</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 20:14:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_dspo_commodity_info.comm_description</element>
+            <position>3</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-21 20:14:25</sys_created_on>
+            <sys_id>43cd83671bc07150baac766e034bcb23</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Commodity Row" display_value="Commodity Row" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">ed6424cf1b84bd10baac766e034bcbc5</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 20:14:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_dspo_commodity_info.comm_quantity</element>
+            <position>4</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-21 20:14:25</sys_created_on>
+            <sys_id>47cd83671bc07150baac766e034bcb23</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Commodity Row" display_value="Commodity Row" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">ed6424cf1b84bd10baac766e034bcbc5</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 20:14:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_dspo_commodity_info.comm_unit_s</element>
+            <position>5</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-21 20:14:25</sys_created_on>
+            <sys_id>4bcd83671bc07150baac766e034bcb23</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Commodity Row" display_value="Commodity Row" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">ed6424cf1b84bd10baac766e034bcbc5</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 20:14:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_dspo_commodity_info.comm_unit_price</element>
+            <position>6</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-21 20:14:25</sys_created_on>
+            <sys_id>4fcd83671bc07150baac766e034bcb23</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Commodity Row" display_value="Commodity Row" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">ed6424cf1b84bd10baac766e034bcbc5</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 20:14:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_dspo_commodity_info.comm_line_amount</element>
+            <position>7</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-21 20:14:25</sys_created_on>
+            <sys_id>43cd83671bc07150baac766e034bcb24</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Commodity Row" display_value="Commodity Row" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">ed6424cf1b84bd10baac766e034bcbc5</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 20:14:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_dspo_commodity_info.comm_fn_doc_id</element>
+            <position>8</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-21 20:14:25</sys_created_on>
+            <sys_id>47cd83671bc07150baac766e034bcb24</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Commodity Row" display_value="Commodity Row" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">ed6424cf1b84bd10baac766e034bcbc5</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-21 20:14:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Commodity Row</caption>
+            <header>false</header>
+            <name>proc_po_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-19 18:37:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ed6424cf1b84bd10baac766e034bcbc5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>proc_po_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="DSpoPurchaseOrders" source="x_dosny_dspopurcha">3fba2c531b9265506c1036ef034bcb63</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DSpoPurchaseOrders">3fba2c531b9265506c1036ef034bcb63</sys_scope>
+            <sys_update_name>sys_ui_section_ed6424cf1b84bd10baac766e034bcbc5</sys_update_name>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-19 18:37:20</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="DSpo" name="dspo">bf1b41461b1eed106c1036ef034bcb1a</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

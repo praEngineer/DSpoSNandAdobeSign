@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_action">
+    <sys_ui_action action="INSERT_OR_UPDATE">
+        <action_name>send</action_name>
+        <active>false</active>
+        <client>true</client>
+        <client_script_v2><![CDATA[function onClick(g_form) {
+
+}]]></client_script_v2>
+        <comments>Intended to enable a "generate document" using the Adobe Sign Template SNpo202307131505 of table x_adosy_as_document_template_list</comments>
+        <condition>true == true</condition>
+        <form_action>true</form_action>
+        <form_button>true</form_button>
+        <form_button_v2>false</form_button_v2>
+        <form_context_menu>true</form_context_menu>
+        <form_link>false</form_link>
+        <form_menu_button_v2>false</form_menu_button_v2>
+        <form_style/>
+        <format_for_configurable_workspace>false</format_for_configurable_workspace>
+        <hint/>
+        <isolate_script>true</isolate_script>
+        <list_action>false</list_action>
+        <list_banner_button>false</list_banner_button>
+        <list_button>false</list_button>
+        <list_choice>false</list_choice>
+        <list_context_menu>false</list_context_menu>
+        <list_link>false</list_link>
+        <list_save_with_form_button>false</list_save_with_form_button>
+        <list_style/>
+        <messages/>
+        <name>SendForAdobeSignSignature</name>
+        <onclick>x_adosy_as_sefarkas_open()</onclick>
+        <order>100</order>
+        <script><![CDATA[function x_adosy_as_sefarkas_open() {
+	/* 
+	https://smartdoc.na1.echosign.com/public/esign?aid=CBJCHBCAABAAnN9sClO09II2ze2-C7NYzwLdQMqE8n-m&pid=CBJCHBCAABAAn-UwDXCpmwXqKkebr1KtsBloJA9CxHo4&expId=
+    	
+	var yourWidgetId = 'CBJCHBCAABAAF9OPZ0JGK-T4gSLmj9CsyLeaLgbose7t';
+	var yourRedirectUrl = action.setRedirectURL(current);
+	var url = 'https://secure.na1.echosign.com/public/apiesign?';
+	
+	url += 'widgetId=' + yourWidgetId;
+	url += '&redirectUrl=' + yourRedirectUrl;
+	url += '&autoLogin=true';
+
+	url += '&email=' + g_form.getValue('email');
+	url += '&name=' + g_form.getValue('name');
+	url += '&file=' + g_form.getValue('file');
+
+	var mergeRules = new GlideRecord('x_adosy_as_merge_rule_list');
+	mergeRules.query();
+	var documentField = '';
+	var recordField = '';
+	while (mergeRules.next()) {
+	    documentField = mergeRules.document_field;
+	    recordField = mergeRules.record_field;
+	    url += '&' + documentField + '=' + g_form.getValue(recordField);
+	}
+*/
+	//window.open(url);
+    	//var url = 'https://secure.na1.echosign.com/public/apiesign?';
+        var dialog = new GlideModal('my_dialog');
+        dialog.setTitle('feature in development');
+        //dialog.setPreference('table_name', g_form.getTableName());
+        dialog.render();
+        //var html = '<div>On click is working</div>';
+        //dialog.$('body').update(html);
+
+		
+}]]></script>
+        <show_insert>false</show_insert>
+        <show_multiple_update>false</show_multiple_update>
+        <show_query>false</show_query>
+        <show_update>true</show_update>
+        <sys_class_name>sys_ui_action</sys_class_name>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-07-14 16:01:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>29b9c2991b4879106c1036ef034bcbe0</sys_id>
+        <sys_mod_count>31</sys_mod_count>
+        <sys_name>SendForAdobeSignSignature</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DSpoPurchaseOrders" source="x_dosny_dspopurcha">3fba2c531b9265506c1036ef034bcb63</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DSpoPurchaseOrders">3fba2c531b9265506c1036ef034bcb63</sys_scope>
+        <sys_update_name>sys_ui_action_29b9c2991b4879106c1036ef034bcbe0</sys_update_name>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-07-17 20:19:55</sys_updated_on>
+        <table>proc_po</table>
+        <ui11_compatible>true</ui11_compatible>
+        <ui16_compatible>false</ui16_compatible>
+    </sys_ui_action>
+</record_update>
