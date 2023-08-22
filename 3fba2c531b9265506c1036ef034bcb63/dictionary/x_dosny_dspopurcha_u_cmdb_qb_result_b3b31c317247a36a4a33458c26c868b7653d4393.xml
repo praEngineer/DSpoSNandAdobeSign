@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="ignore_baseline=true" db_object_id="c3ff46b41bdcf9506c1036ef034bcb0a" extends="cmdb_qb_result_base" label="Projects on a Business Application-Query Results" max_length="40" name="x_dosny_dspopurcha_u_cmdb_qb_result_b3b31c317247a36a4a33458c26c868b7653d4393" type="collection"/>
+</database>

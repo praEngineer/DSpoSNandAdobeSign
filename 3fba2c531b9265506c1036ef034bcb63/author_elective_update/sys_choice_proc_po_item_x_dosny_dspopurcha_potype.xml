@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="x_dosny_dspopurcha_potype" table="proc_po_item" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>x_dosny_dspopurcha_potype</element>
+            <name>proc_po_item</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-24 15:22:58</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_dosny_dspopurcha_potype</sys_name>
+            <sys_package display_value="DSpoPurchaseOrders" source="x_dosny_dspopurcha">3fba2c531b9265506c1036ef034bcb63</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DSpoPurchaseOrders">3fba2c531b9265506c1036ef034bcb63</sys_scope>
+            <sys_update_name>sys_choice_proc_po_item_x_dosny_dspopurcha_potype</sys_update_name>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-24 15:22:58</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_dosny_dspopurcha_potype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DO1 - Delivery Order</label>
+            <language>en</language>
+            <name>proc_po_item</name>
+            <sequence>1011</sequence>
+            <synonyms/>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-24 15:22:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-24 16:04:33</sys_updated_on>
+            <value>DO1 - Delivery Order</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_dosny_dspopurcha_potype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>POC - Commodity Purchase Order</label>
+            <language>en</language>
+            <name>proc_po_item</name>
+            <sequence>1012</sequence>
+            <synonyms/>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-24 15:23:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-24 16:04:21</sys_updated_on>
+            <value>POC - Commodity Purchase Order</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_dosny_dspopurcha_potype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SI - Ship Inst</label>
+            <language>en</language>
+            <name>proc_po_item</name>
+            <sequence>1013</sequence>
+            <synonyms/>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-24 15:24:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-24 16:04:42</sys_updated_on>
+            <value>SI - Ship Inst</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_dosny_dspopurcha_potype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Blanket Order</label>
+            <language>en</language>
+            <name>proc_po_item</name>
+            <sequence>1014</sequence>
+            <synonyms/>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-24 15:25:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-24 16:04:51</sys_updated_on>
+            <value>Blanket Order</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>x_dosny_dspopurcha_potype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PON1 -- Non Commodity PO</label>
+            <language>en</language>
+            <name>proc_po_item</name>
+            <sequence>1015</sequence>
+            <synonyms/>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-24 15:26:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-24 16:05:00</sys_updated_on>
+            <value>PON1 -- Non Commodity PO</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

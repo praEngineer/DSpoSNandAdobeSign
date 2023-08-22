@@ -4,13 +4,13 @@
             <element>.begin_split</element>
             <position>0</position>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-07-21 16:51:16</sys_created_on>
-            <sys_id>db4fd6631b007150baac766e034bcb76</sys_id>
+            <sys_created_on>2023-07-24 16:15:12</sys_created_on>
+            <sys_id>90d3b9281b18b9506c1036ef034bcb4f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Purchase Order Table" display_value="Purchase Order Table" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">3e0a01db1b48fd10baac766e034bcb5f</sys_ui_section>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-07-21 16:51:16</sys_updated_on>
+            <sys_updated_on>2023-07-24 16:15:12</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -18,223 +18,237 @@
             <element>number</element>
             <position>1</position>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-07-21 16:51:16</sys_created_on>
-            <sys_id>d34fd6631b007150baac766e034bcb77</sys_id>
+            <sys_created_on>2023-07-24 16:15:12</sys_created_on>
+            <sys_id>94d3b9281b18b9506c1036ef034bcb4f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Purchase Order Table" display_value="Purchase Order Table" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">3e0a01db1b48fd10baac766e034bcb5f</sys_ui_section>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-07-21 16:51:16</sys_updated_on>
+            <sys_updated_on>2023-07-24 16:15:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_dosny_dspopurcha_potype</element>
+            <position>2</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-07-24 16:15:12</sys_created_on>
+            <sys_id>98d3b9281b18b9506c1036ef034bcb4f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Purchase Order Table" display_value="Purchase Order Table" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">3e0a01db1b48fd10baac766e034bcb5f</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-07-24 16:15:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>vendor</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-07-21 16:51:16</sys_created_on>
-            <sys_id>d74fd6631b007150baac766e034bcb77</sys_id>
+            <sys_created_on>2023-07-24 16:15:12</sys_created_on>
+            <sys_id>9cd3b9281b18b9506c1036ef034bcb4f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Purchase Order Table" display_value="Purchase Order Table" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">3e0a01db1b48fd10baac766e034bcb5f</sys_ui_section>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-07-21 16:51:16</sys_updated_on>
+            <sys_updated_on>2023-07-24 16:15:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>ordered</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-07-21 16:51:16</sys_created_on>
-            <sys_id>db4fd6631b007150baac766e034bcb77</sys_id>
+            <sys_created_on>2023-07-24 16:15:12</sys_created_on>
+            <sys_id>90d3b9281b18b9506c1036ef034bcb50</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Purchase Order Table" display_value="Purchase Order Table" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">3e0a01db1b48fd10baac766e034bcb5f</sys_ui_section>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-07-21 16:51:16</sys_updated_on>
+            <sys_updated_on>2023-07-24 16:15:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>short_description</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-07-21 16:51:16</sys_created_on>
-            <sys_id>df4fd6631b007150baac766e034bcb77</sys_id>
+            <sys_created_on>2023-07-24 16:15:12</sys_created_on>
+            <sys_id>94d3b9281b18b9506c1036ef034bcb50</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Purchase Order Table" display_value="Purchase Order Table" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">3e0a01db1b48fd10baac766e034bcb5f</sys_ui_section>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-07-21 16:51:16</sys_updated_on>
+            <sys_updated_on>2023-07-24 16:15:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>ordered_quantity</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-07-21 16:51:16</sys_created_on>
-            <sys_id>d34fd6631b007150baac766e034bcb78</sys_id>
+            <sys_created_on>2023-07-24 16:15:12</sys_created_on>
+            <sys_id>98d3b9281b18b9506c1036ef034bcb50</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Purchase Order Table" display_value="Purchase Order Table" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">3e0a01db1b48fd10baac766e034bcb5f</sys_ui_section>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-07-21 16:51:16</sys_updated_on>
+            <sys_updated_on>2023-07-24 16:15:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>expected_delivery</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-07-21 16:51:16</sys_created_on>
-            <sys_id>d74fd6631b007150baac766e034bcb78</sys_id>
+            <sys_created_on>2023-07-24 16:15:12</sys_created_on>
+            <sys_id>9cd3b9281b18b9506c1036ef034bcb50</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Purchase Order Table" display_value="Purchase Order Table" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">3e0a01db1b48fd10baac766e034bcb5f</sys_ui_section>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-07-21 16:51:16</sys_updated_on>
+            <sys_updated_on>2023-07-24 16:15:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>received</element>
-            <position>7</position>
+            <position>8</position>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-07-21 16:51:16</sys_created_on>
-            <sys_id>db4fd6631b007150baac766e034bcb78</sys_id>
+            <sys_created_on>2023-07-24 16:15:12</sys_created_on>
+            <sys_id>90d3b9281b18b9506c1036ef034bcb51</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Purchase Order Table" display_value="Purchase Order Table" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">3e0a01db1b48fd10baac766e034bcb5f</sys_ui_section>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-07-21 16:51:16</sys_updated_on>
+            <sys_updated_on>2023-07-24 16:15:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>model</element>
-            <position>8</position>
+            <position>9</position>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-07-21 16:51:16</sys_created_on>
-            <sys_id>df4fd6631b007150baac766e034bcb78</sys_id>
+            <sys_created_on>2023-07-24 16:15:12</sys_created_on>
+            <sys_id>94d3b9281b18b9506c1036ef034bcb51</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Purchase Order Table" display_value="Purchase Order Table" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">3e0a01db1b48fd10baac766e034bcb5f</sys_ui_section>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-07-21 16:51:16</sys_updated_on>
+            <sys_updated_on>2023-07-24 16:15:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>9</position>
+            <position>10</position>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-07-21 16:51:16</sys_created_on>
-            <sys_id>d34fd6631b007150baac766e034bcb79</sys_id>
+            <sys_created_on>2023-07-24 16:15:12</sys_created_on>
+            <sys_id>98d3b9281b18b9506c1036ef034bcb51</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Purchase Order Table" display_value="Purchase Order Table" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">3e0a01db1b48fd10baac766e034bcb5f</sys_ui_section>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-07-21 16:51:16</sys_updated_on>
+            <sys_updated_on>2023-07-24 16:15:12</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>purchase_order</element>
-            <position>10</position>
+            <position>11</position>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-07-21 16:51:16</sys_created_on>
-            <sys_id>d74fd6631b007150baac766e034bcb79</sys_id>
+            <sys_created_on>2023-07-24 16:15:12</sys_created_on>
+            <sys_id>9cd3b9281b18b9506c1036ef034bcb51</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Purchase Order Table" display_value="Purchase Order Table" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">3e0a01db1b48fd10baac766e034bcb5f</sys_ui_section>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-07-21 16:51:16</sys_updated_on>
+            <sys_updated_on>2023-07-24 16:15:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>purchase_order.vendor_contract</element>
-            <position>11</position>
+            <position>12</position>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-07-21 16:51:16</sys_created_on>
-            <sys_id>db4fd6631b007150baac766e034bcb79</sys_id>
+            <sys_created_on>2023-07-24 16:15:12</sys_created_on>
+            <sys_id>90d3b9281b18b9506c1036ef034bcb52</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Purchase Order Table" display_value="Purchase Order Table" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">3e0a01db1b48fd10baac766e034bcb5f</sys_ui_section>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-07-21 16:51:16</sys_updated_on>
+            <sys_updated_on>2023-07-24 16:15:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>status</element>
-            <position>12</position>
+            <position>13</position>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-07-21 16:51:16</sys_created_on>
-            <sys_id>df4fd6631b007150baac766e034bcb79</sys_id>
+            <sys_created_on>2023-07-24 16:15:12</sys_created_on>
+            <sys_id>94d3b9281b18b9506c1036ef034bcb52</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Purchase Order Table" display_value="Purchase Order Table" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">3e0a01db1b48fd10baac766e034bcb5f</sys_ui_section>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-07-21 16:51:16</sys_updated_on>
+            <sys_updated_on>2023-07-24 16:15:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>total_cost</element>
-            <position>13</position>
+            <position>14</position>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-07-21 16:51:16</sys_created_on>
-            <sys_id>e34fd6631b007150baac766e034bcb7a</sys_id>
+            <sys_created_on>2023-07-24 16:15:12</sys_created_on>
+            <sys_id>98d3b9281b18b9506c1036ef034bcb52</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Purchase Order Table" display_value="Purchase Order Table" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">3e0a01db1b48fd10baac766e034bcb5f</sys_ui_section>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-07-21 16:51:16</sys_updated_on>
+            <sys_updated_on>2023-07-24 16:15:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>list_price</element>
-            <position>14</position>
+            <position>15</position>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-07-21 16:51:16</sys_created_on>
-            <sys_id>e74fd6631b007150baac766e034bcb7a</sys_id>
+            <sys_created_on>2023-07-24 16:15:12</sys_created_on>
+            <sys_id>9cd3b9281b18b9506c1036ef034bcb52</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Purchase Order Table" display_value="Purchase Order Table" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">3e0a01db1b48fd10baac766e034bcb5f</sys_ui_section>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-07-21 16:51:16</sys_updated_on>
+            <sys_updated_on>2023-07-24 16:15:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>total_list_price</element>
-            <position>15</position>
+            <position>16</position>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-07-21 16:51:16</sys_created_on>
-            <sys_id>eb4fd6631b007150baac766e034bcb7a</sys_id>
+            <sys_created_on>2023-07-24 16:15:12</sys_created_on>
+            <sys_id>90d3b9281b18b9506c1036ef034bcb53</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Purchase Order Table" display_value="Purchase Order Table" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">3e0a01db1b48fd10baac766e034bcb5f</sys_ui_section>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-07-21 16:51:16</sys_updated_on>
+            <sys_updated_on>2023-07-24 16:15:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>16</position>
+            <position>17</position>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-07-21 16:51:16</sys_created_on>
-            <sys_id>ef4fd6631b007150baac766e034bcb7a</sys_id>
+            <sys_created_on>2023-07-24 16:15:12</sys_created_on>
+            <sys_id>94d3b9281b18b9506c1036ef034bcb53</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Purchase Order Table" display_value="Purchase Order Table" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">3e0a01db1b48fd10baac766e034bcb5f</sys_ui_section>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-07-21 16:51:16</sys_updated_on>
+            <sys_updated_on>2023-07-24 16:15:12</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>

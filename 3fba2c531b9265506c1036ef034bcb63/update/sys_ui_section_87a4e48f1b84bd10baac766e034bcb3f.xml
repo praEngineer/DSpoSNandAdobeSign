@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="Description Row" section_id="87a4e48f1b84bd10baac766e034bcb3f" sys_domain="global" table="proc_po_item" version="3" view="dspo">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>short_description</element>
+            <element>u_dspo_commodity_info.comm_description</element>
             <position>0</position>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-07-19 18:51:06</sys_created_on>
-            <sys_id>8b87acc31bc4bd10baac766e034bcb34</sys_id>
+            <sys_created_on>2023-07-24 14:42:46</sys_created_on>
+            <sys_id>5aae55a81b94b9506c1036ef034bcb19</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Description Row" display_value="Description Row" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">87a4e48f1b84bd10baac766e034bcb3f</sys_ui_section>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-07-19 18:51:06</sys_updated_on>
+            <sys_updated_on>2023-07-24 14:42:46</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>u_description</element>
             <position>1</position>
             <sys_created_by>sfarkas</sys_created_by>
-            <sys_created_on>2023-07-19 18:51:06</sys_created_on>
-            <sys_id>8f87acc31bc4bd10baac766e034bcb34</sys_id>
+            <sys_created_on>2023-07-24 14:42:46</sys_created_on>
+            <sys_id>d2ae55a81b94b9506c1036ef034bcb1a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Description Row" display_value="Description Row" name="proc_po_item" sys_domain="global" view="bf1b41461b1eed106c1036ef034bcb1a">87a4e48f1b84bd10baac766e034bcb3f</sys_ui_section>
             <sys_updated_by>sfarkas</sys_updated_by>
-            <sys_updated_on>2023-07-19 18:51:06</sys_updated_on>
+            <sys_updated_on>2023-07-24 14:42:46</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

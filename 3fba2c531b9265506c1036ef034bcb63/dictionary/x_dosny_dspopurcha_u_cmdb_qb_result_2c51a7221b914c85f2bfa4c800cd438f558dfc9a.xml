@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="ignore_baseline=true" db_object_id="0ccf4ab41bdcf9506c1036ef034bcb6b" extends="cmdb_qb_result_base" label="BusinessProcess using Information Object-Query Results" max_length="40" name="x_dosny_dspopurcha_u_cmdb_qb_result_2c51a7221b914c85f2bfa4c800cd438f558dfc9a" type="collection"/>
+</database>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>true</action_insert>
+        <action_query>false</action_query>
+        <action_update>false</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_adosy_as_participant</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>DSNY BIT Purchase Approval Role Defaults</name>
+        <order>300</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+    var order = current.getValue('order');
+    var role = current.getValue('role');
+    if (order == 1) {
+        current.setValue('role', 'FORM_FILLER'); // underscore is necessary; must be exact match to role choices
+    } else if (order == 2) {
+        current.setValue('role', 'SIGNER');
+    } else if (order == 3) {
+        current.setValue('role', 'SIGNER');
+    } else if (order == 4) {
+        current.setValue('role', 'APPROVER');
+    } else if (order >= 5) {
+        current.setValue('role', 'CERTIFIED_RECIPIENT'); // underscore is necessary; must be exact match to role choices
+    }
+})(current, previous);
+/*
+This script is an example of an "onBefore" business rule that sets the 'role' field based on the value of the 'order' field. When the order value is 1, the role label is "SIGNER". When the order value is 2, the role label is "SIGNER" and the role label is "FORM FILLER" for order equal to 1. When the order value is 3, the role label is "SIGNER". When the order value is 4, the role label is "APPROVER". When the order value is 5 or more, the role label is "SIGNER"
+
+The "onBefore" business rule is used in this case because it sets the value of the 'role' field before the record is inserted or updated. This means that the value of the 'role' field will be set correctly before any other business rules or scripts are executed1.
+
+The value of the 'order' field is typically known before the insert of the participants. The 'order' field is used to determine the order in which the participants should sign the document. 
+
+*/]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-08-17 20:23:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>702192981bfc3550baac766e034bcb81</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>DSNY BIT Purchase Approval Role Defaults</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DSpoPurchaseOrders" source="x_dosny_dspopurcha">3fba2c531b9265506c1036ef034bcb63</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DSpoPurchaseOrders">3fba2c531b9265506c1036ef034bcb63</sys_scope>
+        <sys_update_name>sys_script_702192981bfc3550baac766e034bcb81</sys_update_name>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-08-18 15:15:05</sys_updated_on>
+        <template/>
+        <when>before</when>
+    </sys_script>
+    <sys_translated_text action="delete_multiple" query="documentkey=702192981bfc3550baac766e034bcb81"/>
+</record_update>
